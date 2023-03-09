@@ -7,5 +7,6 @@
     - TomCat: Instalación y configuración de TomCat.
     - Memoria de prácticas de Wildfly: Instalación y configuración de Wildfly.
     - Memoria de prácticas CRUD: Insertar un proyecto con conexión a BD y TomCat.
+    - Despliegue de war en Tomcat: Como desplegar un proyecto .war en Tomcat.
     - Instalación de Jenkins y Tomcat: Instalación y configuración de Jenkins y TomCat con proyecto de BD.
-    - Instalación de Jenkins y Tomcat: Instalación y configuración de Jenkins y TomCat con proyecto de BD (Proyecto         prueba soccer).
+    - Instalación de Jenkins y Tomcat: Instalación y configuración de Jenkins y TomCat con proyecto de BD (Proyecto prueba soccer).
