@@ -1,1 +1,11 @@
-# Despliegue_Curso_II
+#Curso de Despliegue de Aplicaciones Web
+-------------------------------------------------------------------------------------------
+--  TEMARIO DEL CURSO   (Segundo Trimestre)  
+-------------------------------------------------------------------------------------------
+- Curso Segundo temario: 
+    - Ediciones de Java: Información detallada de todas las ediciones de Java.
+    - TomCat: Instalación y configuración de TomCat.
+    - Memoria de prácticas de Wildfly: Instalación y configuración de Wildfly.
+    - Memoria de prácticas CRUD: Insertar un proyecto con conexión a BD y TomCat.
+    - Instalación de Jenkins y Tomcat: Instalación y configuración de Jenkins y TomCat con proyecto de BD.
+    - Instalación de Jenkins y Tomcat: Instalación y configuración de Jenkins y TomCat con proyecto de BD (Proyecto         prueba soccer).
